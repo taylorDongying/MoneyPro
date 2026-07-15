@@ -1,0 +1,129 @@
+.index_top{    
+    padding: 12px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+.user_icon{
+    font-size: 28px;
+    margin-right: 10px;
+}
+.index_top .title{
+    font-size: 12px !important;
+    color:#B2BEC3;
+    font-size: 20px;
+    font-weight: 700;
+}
+.index_top .desc{
+    font-size: 16px;
+    font-weight: 700;
+    color:#222;
+}
+.monthly_card{
+    margin: 12px 16px;
+    padding: 20px;
+    color: #fff;
+    background: linear-gradient(135deg, #6C5CE7, #8B7CF6);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(108, 92, 231, 0.15);
+}
+.card_top{
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.date_li{
+    margin-bottom: 8px;
+    font-size: 13px;
+    opacity: 0.8;
+}
+.income_li{
+    width: 50%;    
+}
+.income_li .title{
+    font-size: 11px;
+    opacity: 0.75;
+    margin-bottom: 8px;
+}
+.expense_li{
+    border-left: rgba(255, 255, 255, 0.2) solid 1px;       
+}
+.activeTab{
+    color: #6C5CE7;
+}
+.income_li .amount{
+    color: #55EFC4;
+    font-size: 20px;
+    font-weight: 700;
+}
+.expense_li .amount{
+    color: #FFD93D;
+    font-size: 20px;
+    font-weight: 700;
+}
+.card_bottom{
+    padding-top: 14px;
+}
+.balance_li{
+    font-size: 11px;
+    opacity: 0.7;
+}
+.card_bottom .amount{
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+.bill_li{
+    padding: 12px 14px;
+    margin: 0 16px 4px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    transition: transform 0.15s;
+    cursor: pointer;
+}
+.bill_li .icon{
+    margin-right: 12px;
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    font-size: 22px;
+    background: rgb(255, 240, 230);
+}
+.bill_info .title{
+    color: #2D3436;
+    font-size: 14px;
+    font-weight: 600;
+}
+.bill_info .text{
+    font-size: 11px;
+    color: #B2BEC3;   
+}
+.bill_li .amount{
+    font-size: 16px;
+    font-weight: 700;
+}
+.expense_text{
+    color: #FF6B6B;
+}
+.income_text{
+    color: #00B894;
+}
+.none_bill{
+    margin-top: 40px;
+    text-align: center; 
+    color: #B2BEC3;   
+}
+.none_bill .icon{
+    font-size: 48px;
+}
+.empty_text{
+    margin-top: 10px;
+    font-size: 13px;
+}
+.section_title{
+    font-size: 14px;
+    font-weight: 600;
+    color: #2D3436;
+    margin: 20px 16px 10px;
+}
+.bill_list{
+    padding: 0 4px 80px;
+}
